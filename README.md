@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zak4ps
-- 👀 I’m interested in sports including football, soccer, baseball and basketball and using programming in languages such as R, C++ and JavaScript.
+- 👀 I’m interested in sports including football, soccer, baseball and basketball and using programming in languages such as R, Python, C++ and JavaScript.
 - 📫 How to reach me: via email at zaynekratz@gmail.com
 
 <!---
